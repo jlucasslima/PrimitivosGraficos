@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TrianguloGr
+comment0.text=\r\n\ Representa\u00E7\u00E3o\ e\ desenho\ do\ primitivo\ Tri\u00E2ngulo.\r\n\ \r\n\ Integrantes\ do\ Grupo\:\r\n\ -\ Jo\u00E3o\ Lucas\ de\ Lima\ Souza\ -\ RA00360044\r\n\ -\ Pedro\ Chagas\ Neves\ de\ Farias\ Nascimento\ -\ RA00359511\r\n\ -\ Guilherme\ Pereira\ de\ Rivoredo\ -\ RA00359303\r\n\ -\ Eduardo\ Achkar\ avancini\ -\ RA00359889\r\n
+comment1.params=x1\ y1\ x2\ y2\ x3\ y3\ cor\ esp
+comment1.target=TrianguloGr(int,\ int,\ int,\ int,\ int,\ int,\ java.awt.Color,\ int)
+comment2.params=g
+comment2.target=void\ desenharTriangulo(java.awt.Graphics)
+numComments=3
